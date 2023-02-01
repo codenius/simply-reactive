@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "reactive object",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
